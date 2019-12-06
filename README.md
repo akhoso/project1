@@ -4,7 +4,7 @@ Project: Providing Microsoft movie insights from current market to help guide th
 
 Team Members: Alex Benedict, Aneeta Khoso
 
-Data sources were generated from imdb datasets, ------- and ---------.  Multiple datasets were imported into Tableau and manipulated to include some calculated fields.  The calculated and default fields were used to depict various charts to present meaningful highlights to Microsoft.
+Data sources were generated from IMDB datasets and Wikipedia.  Multiple datasets were imported into Tableau and manipulated to include some calculated fields.  The calculated and default fields were used to depict various charts to present meaningful highlights to Microsoft.
 
 Data remained in raw form when imported into Tableau. Although it was not 'cleaned' we did not run into dirty data through the project.
 
@@ -20,9 +20,9 @@ Presentation is available at in this repository.
 
 Sources;
 www.imdb.com
+www.wikipedia.com
 www.canva.com
-online data??
-rottentomatoes.com
+www.rottentomatoes.com
 
 
 
